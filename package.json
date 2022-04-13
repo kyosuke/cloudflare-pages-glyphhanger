@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "pipInstall": "pip install -r requirements.txt",
     "build": "glyphhanger ./public/index.html --subset=./fonts/NotoSansJP-VF.otf --formats=woff2 --output=./public/"
   },
   "devDependencies": {
