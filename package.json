@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "glyphhanger ./public/index.html --subset=./fonts/NotoSansJP-VF.otf --formats=woff2 --output=./public/"
+  },
+  "devDependencies": {
+    "glyphhanger": "^5.0.0"
+  }
+}
