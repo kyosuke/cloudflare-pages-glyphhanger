@@ -8,7 +8,7 @@ https://cloudflare-pages-glyphhanger.pages.dev
 
 ### Builds & deployments
 
-- build command: `npm run pipInstall && npm run build`
+- build command: `npm run build`
 - Build output directory: `/public`
 
 ### Environment variables
